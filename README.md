@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[https://imgur.com/a/aZcCkHk](https://imgur.com/a/IOQos0Y) https://imgur.com/a/E3zgpf7' title='wishlist' width='' alt='wishlist' />
+<img src='https://i.imgur.com/wYnNVno.png' title='wishlist' width='' alt='wishlist' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
