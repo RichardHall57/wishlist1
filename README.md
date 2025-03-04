@@ -22,10 +22,15 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/wYnNVno.png' title='wishlist' width='' alt='wishlist' />
+Here's a walkthrough of implemented features:
+
+![Kapture 2025-02-13 at 14 07 45](https://github.com/user-attachments/assets/a84d42a3-3193-49f0-aa4c-d88e7c9d4256)
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [(https://getkap.co/)] for Windows
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
